@@ -1,16 +1,64 @@
-## Hi there 👋
+## Hi there 👋 I'm Vítor Faria aka Weee
 
-<!--
-**WeeePeste/WeeePeste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student  
+📚 Currently finishing 2nd year → moving into 3rd  
+💼 Working in retail while studying  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About me
+
+- I study Computer Engineering
+- I balance work + university projects
+- I enjoy exploring all tech areas
+- Always learning step by step
+
+---
+
+### 🚀 Currently learning
+
+- Java (main language)
+- SQL
+- Python
+- Fullstack development
+
+---
+
+### 🛠️ Tools & Tech
+
+- IntelliJ IDEA
+- VS Code (learning)
+- Git & GitHub (learning)
+- Microsoft SQL Server (learning)
+
+---
+
+### 📦 Projects
+
+- 🚦 Traffic Control Simulation  
+  Academic project focused on system logic & control
+
+---
+
+### 🖥️ Tech & Hardware
+
+- Custom Gaming PC
+- Full watercooling setup 💧
+- Into PC builds & performance tuning
+
+---
+
+### 🎮 Gaming side
+
+- Huge fan of Mass Effect trilogy
+- League of Legends player
+
+---
+
+### ⚡ Fun fact
+
+Balancing supermarket work with Computer Engineering studies — real life grind + code grind.
+
+---
+
+Thanks for visiting my profile 👾
